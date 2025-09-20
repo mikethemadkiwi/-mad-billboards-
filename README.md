@@ -21,7 +21,10 @@ https://forum.cfx.re/u/thers/summary
 Creator of the mod:  
 https://forum.cfx.re/t/release-generic-dui-2d-3d-renderer/131208  
   
-Currently trying to figure out whether having more than one load at once is causing multiload.  
+KNOWN BUGS::  
+Currently trying to figure out whether having more than one load in an interior is causing multiload on all screens.  
+Reloading script while live CAN cause caching issues on client.  
+  
 Billboards load ALL web link content.  
 HIGHLY recommend using google slides on automatic transition as content.  
   
