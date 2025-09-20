@@ -5,10 +5,7 @@ A collection of mods, replicating single scaleform textures.
 These were all tested on interiors loaded and used on MY city.    
   
 Visual Examples in Vanilla Unicorn + Closest Clothing Store, La Fuente Blanca (custom) & Vanilla Morgue.  
-  - RequestIpl("Coroner_Int_on") -- old morgue ( built-in )
-  - RequestIpl("coronertrash")
-  - RequestIpl("xm3_dlc_int_03_xm3") -- new morgue ( drug wars content )
-  
+  - RequestIpl("Coroner_Int_on") -- old morgue ( built-in )    
   
 [Preview Video On Youtube](https://youtu.be/7loFkgFHqG4)
 
