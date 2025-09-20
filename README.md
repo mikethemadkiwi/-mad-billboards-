@@ -4,9 +4,13 @@ Example of Billboard code using Scaleform textures.
 A collection of mods, replicating single scaleform textures.  
 These were all tested on interiors loaded and used on MY city.    
   
-Visual Examples in Vanilla Unicorn + Closest Clothing Store, La Fuente Blanca (custom) & Vanilla Morgue.(ipl - )  
+Visual Examples in Vanilla Unicorn + Closest Clothing Store, La Fuente Blanca (custom) & Vanilla Morgue.  
+  - RequestIpl("Coroner_Int_on") -- old morgue ( built-in )
+  - RequestIpl("coronertrash")
+  - RequestIpl("xm3_dlc_int_03_xm3") -- new morgue ( drug wars content )
+
+
 examples based on interiorId. is they'll load if you are in teh interior, and unload in cases where you are not.  
-  
 vu_example_1 - inside vanilla unicorn  ( A State of trance twitch Livestream 10% volume )  
 vu_example_2 - clothing accross the road from vanilla unicorn  ( Google Slideshow on Automatic Transition and Loop. )  
   
