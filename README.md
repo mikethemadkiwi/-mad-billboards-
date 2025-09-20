@@ -8,7 +8,9 @@ Visual Examples in Vanilla Unicorn + Closest Clothing Store, La Fuente Blanca (c
   - RequestIpl("Coroner_Int_on") -- old morgue ( built-in )
   - RequestIpl("coronertrash")
   - RequestIpl("xm3_dlc_int_03_xm3") -- new morgue ( drug wars content )
-
+  
+  
+[Preview Video On Youtube](https://youtu.be/7loFkgFHqG4)
 
 examples based on interiorId. is they'll load if you are in teh interior, and unload in cases where you are not.  
 vu_example_1 - inside vanilla unicorn  ( A State of trance twitch Livestream 10% volume )  
